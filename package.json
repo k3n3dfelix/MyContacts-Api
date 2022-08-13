@@ -1,0 +1,19 @@
+{
+  "name": "Mycontacts-Api",
+  "version": "1.0.0",
+  "description": "Api com finalidade de manter um serviço de contatos pessoais",
+  "main": "src/index.js",
+  "repository": "https://github.com/k3n3dfelix/MyContacts-Api.git",
+  "author": "Kened Felix",
+  "license": "MIT",
+  "scripts": {
+    "start": "./node_modules/.bin/nodemon src/index.js",
+    "postinstall": "ls"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
