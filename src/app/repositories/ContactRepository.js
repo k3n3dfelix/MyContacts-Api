@@ -7,14 +7,16 @@ let contacts = [
     email: 'kened@gmail.com',
     phone: '(99) 99999-9999',
     category_id: v4(),
+    category_name: 'Instagram',
 
   },
   {
     id: v4(),
-    name: 'Jose',
+    name: 'Jose Silva',
     email: 'jose@gmail.com',
     phone: '(99) 99999-9999',
     category_id: v4(),
+    category_name: 'Instagram',
 
   }
 ]
